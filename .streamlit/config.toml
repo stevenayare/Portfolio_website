@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#61dafb"  # ReactJS logo color
+backgroundColor = "#20232a"  # Dark background color
+secondaryBackgroundColor = "#282c34"  # Slightly lighter background color
+textColor = "#ffffff"  # White text color for contrast
